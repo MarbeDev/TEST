@@ -1,3 +1,5 @@
 Editando el texto de este archivo desde VIM
 
-Modificando desde Github
+Modificando desde Github.
+
+Modificando desde VIM otra vez, antes de realizar un push origin main
