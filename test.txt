@@ -4,4 +4,4 @@ Modificando desde Github.
 
 Modificando desde VIM otra vez, antes de realizar un push origin main
 
-Modifico esta línea tras crear nueva rama miRama
+Añado una nueva línea antes de mergear
